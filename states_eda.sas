@@ -1,4 +1,4 @@
-/* U.S. Educational Finance Analysis*/
+/* U.S. Educational Financial Analysis*/
 
 LIBNAME DS '/home/u62056965/myfolders/data_science';
 
